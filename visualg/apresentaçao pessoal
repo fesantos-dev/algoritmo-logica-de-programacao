@@ -1,0 +1,29 @@
+Algoritmo "apresentacao"
+
+Var
+
+   nome, estado, curso, objetivo : caractere
+   idade : inteiro
+
+
+
+Inicio
+
+   nome <- "Fernanda"
+   idade <- 34
+   estado <- "Rio de Janeiro"
+   curso <- "Ciencia da Computacao"
+   objetivo <- "aprender programacao e trabalhar na area de tecnologia"
+
+
+   escreval("==========================")
+   escreval("   APRESENTACAO PESSOAL   ")
+   escreval("==========================")
+   escreval
+   escreval("Ola!")
+   escreval
+   escreval("Me chamo ", nome, ", tenho ", idade, " anos e moro no ", estado, ".")
+   escreval("Estou cursando ", curso, " na Universidade Estacio de Sa.")
+   escreval("Meu objetivo é: ", objetivo, " e me tornar uma profissional qualificada!")
+
+Fimalgoritmo
