@@ -1,10 +1,11 @@
 # Algoritmos e Lógica de Programação - Curso da Plataforma Udemy 
 
-Exercícios desenvolvidos durante o curso.
+Projetos desenvolvidos durante o curso e colocados em prática.
 
 ## Conteúdos praticados:
 - Saída de dados
+- Variáveis
+- Entrada de dados
 - Operações matemáticas
-- Calculo de área de terreno
 
 Projeto em desenvolvimento
